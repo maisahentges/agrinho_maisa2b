@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>A Ligação entre o Campo e a Cidade</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to bottom, #d0f0c0, #ffffff);
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 30px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #2e7d32;
+        }
+
+        p {
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>A Ligação entre o Campo e a Cidade</h1>
+    </header>
+
+    <div class="container">
+        <h2>Introdução</h2>
+        <p>
+            A relação entre o campo e a cidade é fundamental para o desenvolvimento equilibrado da sociedade. Esses dois espaços, embora distintos, são interdependentes e contribuem de maneiras diferentes, porém complementares, para a vida econômica, social e cultural de uma nação.
+        </p>
+
+        <h2>O Papel do Campo</h2>
+        <p>
+            O campo é responsável por grande parte da produção de alimentos, matérias-primas e recursos naturais. Nele estão as atividades agrícolas, pecuárias e extrativistas, que alimentam não apenas as cidades, mas também impulsionam a economia nacional e internacional. Além disso, o campo preserva tradições culturais importantes, saberes populares e modos de vida mais conectados à natureza.
+        </p>
+
+        <h2>O Papel da Cidade</h2>
+        <p>
+            As cidades, por sua vez, são centros de serviços, comércio, indústria e inovação. Elas concentram instituições de ensino, hospitais, centros de pesquisa e empregos em diversas áreas. As cidades também consomem a maior parte dos produtos vindos do campo, estabelecendo uma relação de troca e dependência.
+        </p>
+
+        <h2>Interdependência e Desafios</h2>
+        <p>
+            Apesar de suas diferenças, o campo e a cidade dependem um do outro para funcionar plenamente. O escoamento da produção rural, por exemplo, depende de infraestrutura urbana e de transportes. Já o abastecimento urbano só é possível graças ao trabalho no campo. No entanto, essa relação enfrenta desafios como o êxodo rural, a concentração fundiária, o crescimento urbano desordenado e a degradação ambiental.
+        </p>
+
+        <h2>Conclusão</h2>
+        <p>
+            Entender a ligação entre o campo e a cidade é essencial para promover políticas públicas mais justas e sustentáveis. Fortalecer o campo, melhorar sua infraestrutura e valorizar os trabalhadores rurais são passos importantes para garantir o equilíbrio dessa relação. Cidades mais conscientes de sua dependência do campo também podem contribuir para um futuro mais justo, sustentável e integrado.
+        </p>
+    </div>
+
+    <footer>
+        Trabalho Escolar – Geografia | 2025
+    </footer>
+
+</body>
+</html>
+
